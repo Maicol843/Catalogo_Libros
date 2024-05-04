@@ -1,0 +1,35 @@
+.body{
+    background-image: url("../img/biblioteca.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container .card, .card input{
+    background-color: rgba(0, 0, 0, 0.826);
+    color: white;
+}
+
+.card input:hover{
+    background-color: rgba(0, 0, 0, 0.553);
+    color: white;
+}
+
+.banner_1{
+    background-image: url("../img/biblioteca_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner_2{
+    background-image: url("../img/administrador.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+
+
